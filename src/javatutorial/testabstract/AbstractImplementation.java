@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.testabstract;
 
 public class AbstractImplementation extends AbstractTests{
     

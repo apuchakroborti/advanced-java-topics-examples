@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.testabstract;
 
 public abstract class AbstractTests {
     static Integer number1;    

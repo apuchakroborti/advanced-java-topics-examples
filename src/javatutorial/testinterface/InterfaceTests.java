@@ -1,5 +1,5 @@
 
-package javatutorial;
+package javatutorial.testinterface;
 
 
 public interface InterfaceTests {

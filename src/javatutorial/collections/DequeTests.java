@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.collections;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
